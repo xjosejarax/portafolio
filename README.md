@@ -4,7 +4,7 @@ Portafolio de trabajos desarrollados
 ## Sitios webs
 https://www.mazda.pe/
 
-http://jac.pe/camiones/index.php?model=d300
+http://jac.pe/camiones/
 
 http://broncesmarisa.com/
 
